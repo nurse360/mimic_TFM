@@ -1,3 +1,6 @@
+# App del TFM que usa el modelo predictivo diseñado
+[TFM](https://huggingface.co/spaces/Nyanda/tfm-mdbb)
+
 # Caracterización de enfermedades de origen orgánico mediante parámetros clínicos aplicando algoritmos de ensamble y minería de reglas
 
 Este repositorio contiene el código y los recursos utilizados en el proyecto titulado **"Caracterización de enfermedades de origen orgánico mediante parámetros clínicos aplicando algoritmos de ensamble y minería de reglas"** para el máster en data sciente, big data & business analytics de la Universidad Complutense de Madrid. El proyecto tiene como objetivo identificar patrones predictivos en enfermedades orgánicas a partir de datos clínicos del conjunto de datos **MIMIC-IV**, utilizando técnicas de minería de reglas y algoritmos de ensamble.
