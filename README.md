@@ -49,6 +49,12 @@ Entre las limitaciones del estudio, destaca la necesidad de evaluar estrategias 
 
 En conclusión, este trabajo demuestra que la inteligencia artificial y el big data pueden desempeñar un papel clave en la medicina, permitiendo extraer conocimiento útil a partir de grandes volúmenes de datos clínicos y contribuyendo a la toma de decisiones médicas más informadas.
 
+## Aplicación Interactiva
+
+Para facilitar la consulta de predicciones generadas por el modelo, se ha desarrollado una **interfaz interactiva** basada en **Gradio**. Esta aplicación permite a los usuarios introducir parámetros clínicos y recibir una evaluación del riesgo asociado a diferentes patologías.
+
+Puedes acceder a la aplicación aquí: [Demo en Hugging Face Spaces](https://huggingface.co/spaces/Nyanda/tfm-mdbb)
+
 ## Licencia
 
 Este proyecto utiliza datos de la base de datos **MIMIC-IV**, los cuales son propiedad de **PhysioNet** y están sujetos a restricciones de acceso. Para acceder a estos datos, es necesario solicitar autorización a través de [PhysioNet](https://physionet.org/content/mimiciv/) y completar el proceso de certificación requerido. El uso de los datos debe cumplir con las normativas de protección de datos y ética establecidas por PhysioNet.
